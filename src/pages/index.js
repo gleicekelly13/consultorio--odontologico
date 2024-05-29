@@ -2,6 +2,7 @@ import Head from 'next/head'
 import styles from '@/styles/Home.module.css'
 import Topo from '@/Componentes/Topo'
 import Apresentacao from '@/Componentes/Apresentacao'
+import Beneficios from '@/Componentes/Beneficios'
 
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
 
       <Topo/>
       <Apresentacao/>
+      <Beneficios/>
     </>
   )
 }

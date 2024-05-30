@@ -3,7 +3,8 @@ import styles from '@/styles/Home.module.css'
 import Topo from '@/Componentes/Topo'
 import Apresentacao from '@/Componentes/Apresentacao'
 import Beneficios from '@/Componentes/Beneficios'
-
+import Secao_depoimentos from '@/Componentes/Secao_depoimentos'
+import CardDepoimento from '@/Componentes/CardDepoimento'
 
 export default function Home() {
   return (
@@ -18,6 +19,8 @@ export default function Home() {
       <Topo/>
       <Apresentacao/>
       <Beneficios/>
+      <Secao_depoimentos/>
+      <CardDepoimento/>
     </>
   )
 }

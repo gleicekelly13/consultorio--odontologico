@@ -4,17 +4,17 @@ import styles from "./Beneficios.module.css"
 
 export default function Beneficios () {
     return (
-        <section>
+        <section className={styles.secao_beneficios}>
             <div>
-                <h2>
+                <h2 className={styles.subtitulo}>
                     Por que usar <span>aparelho</span>?
                 </h2>
-                <figure>
+                <figure className={styles.container_img_aparelho}>
                     <Image src={Aparelho} alt="Imagem do uso de um aparelho" title="Imagem do uso de um aparelho" />
                 </figure>
             </div>
 
-            <ul>
+            <ul className={styles.lista_beneficios}>
                 <li>
                     <h3>Alinhar os dentes</h3>
                     <p>Dentes desalinhados causam problemas nos dentes e podem afetar a

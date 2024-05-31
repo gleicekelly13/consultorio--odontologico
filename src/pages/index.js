@@ -5,6 +5,7 @@ import Apresentacao from '@/Componentes/Apresentacao'
 import Beneficios from '@/Componentes/Beneficios'
 import Secao_depoimentos from '@/Componentes/Secao_depoimentos'
 import CardDepoimento from '@/Componentes/CardDepoimento'
+import Secao_informacoes from '@/Componentes/Secao_informacoes'
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <Beneficios/>
       <Secao_depoimentos/>
       <CardDepoimento/>
+      <Secao_informacoes/>
     </>
   )
 }

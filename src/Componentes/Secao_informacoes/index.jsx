@@ -42,6 +42,10 @@ export default function Secao_informacoes () {
                         <p>Terças e Quartas</p>
                     </div>
                 </div>
+
+                <p>Ligue para agendar uma consulta:</p>
+                <p>(21) 3699 - 9999</p>
+                <p>(21) 97788 - 5566</p>
             </div>
         </section>
     )

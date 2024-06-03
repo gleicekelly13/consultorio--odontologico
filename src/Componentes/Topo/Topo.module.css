@@ -1,0 +1,24 @@
+.topo {
+    background-color: #1b3675;
+    border-bottom: 1px solid #fff;
+    position: fixed;
+    width: 100%;
+}
+
+.container_logo {
+    display: flex;
+    align-items: center; /* Alinha verticalmente */
+    justify-content: center; /* Alinha horizontalmente */
+    padding: 20px;
+}
+
+.container_logo img {
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+}
+
+.container_logo p {
+    color: #fff;
+    font-size: 26px;
+}

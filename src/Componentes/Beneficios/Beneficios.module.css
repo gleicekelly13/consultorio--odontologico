@@ -1,0 +1,19 @@
+.secao_beneficios {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 20px;
+    gap: 30px;
+}
+
+.secao_beneficios div h2 {
+    margin-bottom: 30px;
+    color: #000;
+    font-size: 28px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.secao_beneficios div h2 span {
+    font-weight: 500;
+}

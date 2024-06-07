@@ -1,5 +1,5 @@
 import Image from "next/image"
-import styles from './CardDepomento.module.css'
+import styles from './CardDepoimento.module.css'
 
 export default function CardDepoimento (props) {
     return (

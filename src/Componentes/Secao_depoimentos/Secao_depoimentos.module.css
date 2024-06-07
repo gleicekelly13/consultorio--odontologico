@@ -1,0 +1,17 @@
+.secao_depoimentos {
+    padding: 50px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.subtitulo {
+    font-size: 28px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.subtitulo span {
+    font-weight: 500;
+}

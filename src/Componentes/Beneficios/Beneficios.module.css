@@ -30,3 +30,26 @@
     width: 100%;
     height: 100%;
 }
+
+.lista_beneficios {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.lista_beneficios li {
+    padding: 10px 10px;
+    list-style: none;
+    text-align: left;
+    flex: 1 1 300px;
+}
+
+.lista_beneficios li p {
+    font-size: 16px;
+    margin-top: 5px;
+    line-height: 1.5em;
+}

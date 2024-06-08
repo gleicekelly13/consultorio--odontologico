@@ -18,3 +18,10 @@
     height: 100%;
     object-fit: cover;
 }
+
+.card_depoimento p {
+    line-height: 25px;
+    letter-spacing: 1px;
+    padding: 0px 20px 20px;
+    font-style: italic;
+}

@@ -16,3 +16,11 @@
     font-weight: 500;
 }
 
+.container_depoimentos {
+    max-width: 1024px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    gap: 30px;
+}

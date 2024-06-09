@@ -19,8 +19,8 @@
 .container_depoimentos {
     max-width: 1024px;
     width: 100%;
-    display: flex;
     margin: 0 auto;
+    display: flex;
     flex-wrap: wrap;
     gap: 30px;
 }

@@ -32,19 +32,19 @@ export default function Secao_informacoes () {
                             <p>Dra. Ana - Ortodontista</p>
                             <p>Segundas e Sextas</p>
                         </div>
-                        <div className={styles.card}>
-                            <figure>
-                                <Image className={styles.img_aparelho}
-                                    src={Dentista02}
-                                    alt='Dr. Carlos'
-                                    title='Dr. Carlos'
-                                />
-                            </figure>
-                            <div>
-                                <p>Dr. Carlos - Entodontia</p>
-                                <p>Terças e Quartas</p>
-                            </div>
-                        </div>
+                    </div>    
+                    <div className={styles.card}>
+                        <figure>
+                            <Image className={styles.img_aparelho}
+                                src={Dentista02}
+                                alt='Dr. Carlos'
+                                title='Dr. Carlos'
+                            />
+                        </figure>
+                        <div>
+                            <p>Dr. Carlos - Entodontia</p>
+                            <p>Terças e Quartas</p>
+                        </div>  
                     </div>
                 </MolduraInformacoes>
 

@@ -23,7 +23,6 @@ export default function Home() {
       <Apresentacao/>
       <Beneficios/>
       <Secao_depoimentos/>
-      <CardDepoimento/>
       <Secao_informacoes/>
       <Secao_localizacao/>
       <Rodape/>

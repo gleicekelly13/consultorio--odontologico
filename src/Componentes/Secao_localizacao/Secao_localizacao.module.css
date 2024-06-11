@@ -23,3 +23,9 @@
 .subtitulo span {
     font-weight: 500;
 }
+
+.secao_localizacao div p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #1f1e1e;
+}

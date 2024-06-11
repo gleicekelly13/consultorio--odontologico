@@ -12,3 +12,14 @@
     line-height: 50px;
     padding-bottom: 20px;
 }
+
+.subtitulo {
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.subtitulo span {
+    font-weight: 500;
+}

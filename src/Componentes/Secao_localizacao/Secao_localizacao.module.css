@@ -1,0 +1,5 @@
+.secao_localizacao {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}

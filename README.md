@@ -2,6 +2,10 @@
 <br>
 
 ## :desktop_computer: Desktop design
+<div align = 'center'>
+<img src = "https://github.com/gleicekelly13/consultorio--odontologico/assets/80974593/74981dea-99f5-4362-9c38-a7f1ef983d13" width = "500" />
+</div>
+<br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

@@ -13,6 +13,10 @@
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
 <br>
 
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

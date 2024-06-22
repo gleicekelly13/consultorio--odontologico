@@ -4,3 +4,9 @@
     padding: 30px 20px;
     text-align: center;
 }
+
+@media screen and (max-width: 425px) {
+    .rodape {
+        font-size: 15px;
+    }
+}

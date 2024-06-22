@@ -1,3 +1,26 @@
+<h1 align = "center">Consultório odontológico</h1>
+<h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Projeto prosposto no curso de front-end da Devmedia, com o objetivo de colocar em prática o conceito de criar páginas com múltiplos componentes.</p>
+<br>
+
+## :desktop_computer: Desktop design
+<div align = 'center'>
+<img src = "https://github.com/gleicekelly13/consultorio--odontologico/assets/80974593/74981dea-99f5-4362-9c38-a7f1ef983d13" width = "500" />
+</div>
+<br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
+<br>
+
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
+<p>JAVASCRIPT</p>
+<p>REACT</p>
+<p>NEXT.js</p>
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

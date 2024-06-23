@@ -10,6 +10,11 @@
 <br>
 
 ## :iphone: Mobile design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/consultorio--odontologico/assets/80974593/0d60b8e5-5fab-4a36-81cb-43cf5ff802c5" width = "300" />
+</div>
+<br>
 
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>

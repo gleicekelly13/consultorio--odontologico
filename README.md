@@ -32,6 +32,10 @@
 
 # :sunglasses: Desenvolvedora
 
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

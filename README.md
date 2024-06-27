@@ -1,6 +1,6 @@
 <h1 align = "center">Consultório odontológico</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
-<p>Projeto prosposto no curso de front-end da Devmedia, com o objetivo de colocar em prática o conceito de criar páginas com múltiplos componentes.</p>
+<p>Projeto prosposto no curso de front-end da Devmedia, uma landing page de um consultório odontológico,com o objetivo de colocar em prática o conceito de criar páginas com múltiplos componentes.</p>
 <br>
 
 ## :desktop_computer: Desktop design

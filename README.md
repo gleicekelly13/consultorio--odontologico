@@ -23,6 +23,9 @@
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>A página do consultório odontológico é responsiva, se adapta a diferentes tamanhos de tela, e o topo da página permanece fixo, ou seja, não é afetado na rolagem do scrool.</p>
+<br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>

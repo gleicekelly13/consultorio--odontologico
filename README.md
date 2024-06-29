@@ -26,7 +26,10 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
-<p>Envio de conteúdo via props</p>
+<ul>
+  <li>Compartilhamento e recebimento de conteúdo via props;</li>
+</ul>
+
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>

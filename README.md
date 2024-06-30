@@ -28,6 +28,7 @@
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
   <li>Compartilhamento e recebimento de conteúdo via props;</li>
+  <li>Posicionamento dos elementos utilizando flexbox;</li>
 </ul>
 <br>
 
